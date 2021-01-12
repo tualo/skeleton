@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "tualo\\Office\\Skeleton\\": "src/"
+            "Tualo\\Office\\Skeleton\\": "src/"
         },
         "files": ["src/functions.php"]
     },

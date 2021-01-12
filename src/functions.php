@@ -1,5 +1,5 @@
 <?php
 
-if (class_exists("tualo\Office\Skeleton\Middlewares\Middleware")){ }
-if (class_exists("tualo\Office\Skeleton\Routes\Route")){ }
+if (class_exists("Tualo\Office\Skeleton\Middlewares\Middleware")){ }
+if (class_exists("Tualo\Office\Skeleton\Routes\Route")){ }
 
