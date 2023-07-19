@@ -1,4 +1,4 @@
-Ext.define('TualoOffice.routes.Skeleton',{
+Ext.define('Tualo.routes.Skeleton',{
     url: 'skeleton',
     handler: {
         action: function(token){
